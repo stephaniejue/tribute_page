@@ -1,0 +1,88 @@
+
+.body{
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 120px;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+h2 {
+  font-family: 'Slabo 27px', serif;
+  color: #696969;
+  font-size: 32px;
+  text-align: center;
+  font-style: italic;
+}
+ h3 {
+  color: #740001;
+  font-family: 'Slabo 27px', serif;
+  font-size: 22px;
+  padding: 3px;
+  margin: 0 0 6px 0;
+  text-align: left;
+  font-weight: bold;
+}
+.p {
+  color: #696969;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 12px;
+  padding: 7px 0 0 2px;
+  text-align: left;
+}
+.underquote {
+  color: white;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  text-align: right;
+}
+.set{
+  padding: 10px;
+  margin: 30px;
+  background-color: #E6AE3F;
+  border: 15px;
+  border-radius: 5px;
+  border-color: #eeba30;
+  min-width: 455px;
+}
+.photo {
+  padding: 5px;
+  margin: auto;
+  background-color: white;
+  border: 5px;
+  border-radius: 5px;
+  max-width: 780px;
+}
+#hermione {
+  width: 100%;
+}
+
+.quote{
+  padding: 20px 50px 5px 50px;
+  margin: auto;
+  max-width: 650px;
+}
+.paragraph{
+  color: white;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 16px;
+  padding: 3px;
+  margin: auto;
+  text-align: left;
+}
+a:link, a:visited {
+  color: 	#740001;
+  text-decoration: none;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 34px;
+}
+a:hover, a:active {
+  color: #E10001;
+  text-decoration: none;
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 34px;
+}
